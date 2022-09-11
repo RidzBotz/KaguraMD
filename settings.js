@@ -10,12 +10,12 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6283848609106','6285789004732','6285724706876']
+global.premium = ['6283848609106']
+global.ownernomer = '6283848609106'
+global.ownername = 'Ridz-0fcོ'
+global.botname = 'RidzBotz-MDོ'
+global.footer = 'RidzBotz-MDོ'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
@@ -28,7 +28,7 @@ global.youtube = 'https://youtube.com/c/LEX4YOUU'
 global.ig = 'https://instagram.com/Lexxy24'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.email = 'faridnaufal575@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
